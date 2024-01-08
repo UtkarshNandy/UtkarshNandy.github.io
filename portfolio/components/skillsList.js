@@ -1,6 +1,6 @@
 const skills = [
     {skill: "Python",rating: 10},
-    { skill: "C/C++",rating: 7},
+    {skill: "C/C++",rating: 7},
     {skill: "React", rating: 7},
     {skill: "Django", rating: 7},
     {skill: "Git/GitHub", rating: 10},
@@ -10,7 +10,7 @@ const skills = [
 
 const SkillsList = () => {
     return(
-        <div className="col-1 offset-10">
+        <div >
         <table className="table table-hover">
             <thead>
                 <tr>

@@ -1,0 +1,17 @@
+.content{
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.about{
+    padding-bottom: .5em;
+}
+
+.google, .ecocar{
+    background-color: turquoise;
+}
+
+.frat{
+    background-color: rgb(246, 23, 11);
+    color: white;
+}

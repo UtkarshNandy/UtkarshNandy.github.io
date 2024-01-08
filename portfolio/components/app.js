@@ -1,17 +1,15 @@
-import Organisations from "./organisations"
-import Banner from "./banner";
+import Intro from "./intro";
+import Content from "./content";
 import SkillsList from "./skillsList";
 
 const App = () => {
     return(
         <>
-            <Banner headerText = "Utkarsh Nandy Portfolio" />
-            <Organisations/>
+            <Intro/>
+            <Content/>
             <SkillsList />
-            
         </>
-    ) 
-     
+    )     
 }
 
 export default App;
