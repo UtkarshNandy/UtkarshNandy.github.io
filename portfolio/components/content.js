@@ -61,7 +61,7 @@ const Content = () => {
             </tbody>
         </table>
         <h3 className={`${styles.projectheader}`}>Projects 🛠️</h3>
-        <h6 className={`${styles.comingsoon}`}> Coming soon..</h6>
+        <h6 className={`${styles.comingsoon}`}> Coming soon...</h6>
         </div>
     )
 }

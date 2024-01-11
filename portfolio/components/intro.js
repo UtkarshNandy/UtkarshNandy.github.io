@@ -15,7 +15,6 @@ const Intro = () => {
     
     return (
         <header className={`${styles.intro}`}>
-            
                 <div ref={elementRef} style={{opacity: 0}}>
                     <div className={`${styles.person}`}>
                     🧑🏼‍💻
@@ -38,7 +37,6 @@ const Intro = () => {
                 <img src="./icons8-resume-50.png" alt="resume" className={`${styles.resume}`}></img>
                 </a>
                 </div>
-            
         </header>
     );
 };
