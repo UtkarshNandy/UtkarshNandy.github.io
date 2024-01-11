@@ -43,6 +43,13 @@
 
 .projectheader{
     padding-top: 2em;
+    text-align: center;
+}
+
+.comingsoon{
+    padding-top: 5em;
+    text-align: center;
+    padding-bottom: 5em;
 }
 
 
