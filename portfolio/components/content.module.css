@@ -1,10 +1,20 @@
 .content{
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 8em;
+    margin-right: 8em;
 }
 
 .about{
-    padding-bottom: .5em;
+    padding-bottom: .25em;
+    padding-top: 2.5em;
+}
+
+.personal, .organisations, .hobbies{
+    font-size: 1.15em;
+    padding-bottom: 1em;
+}
+
+.hobbies{
+    padding-bottom: 2.7em;
 }
 
 .google, .ecocar{
@@ -13,5 +23,30 @@
 
 .frat{
     background-color: rgb(246, 23, 11);
-    color: white;
+    color: gold;
 }
+
+.skillheader{
+    padding-bottom: .25em;
+    text-align: center;
+}
+.table{
+    font-size: 1.25em;
+    width: 100%;
+    text-align: center;
+}
+
+.data{
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.projectheader{
+    padding-top: 2em;
+}
+
+
+
+
+
+
